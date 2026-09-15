@@ -1,0 +1,3 @@
+[submodule "repositories/skills-sdlc"]
+	path = repositories/skills-sdlc
+	url = git@github.com:cachemoney/skills-sdlc.git
